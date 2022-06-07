@@ -1,0 +1,82 @@
+"ID","Status","Location","City","Country","Age","Gender","Date_onset","Date_confirmation","Symptoms","observation"
+39,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",1
+40,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",2
+41,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",3
+42,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",4
+43,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",5
+44,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",6
+45,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",7
+46,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",8
+47,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",9
+48,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",10
+49,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",11
+50,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",12
+51,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",13
+70,"confirmed","Montreal","Montreal","Canada","30-59","male","2022-04-29","2022-05-26","oral and genital ulcers, fever",14
+71,"confirmed","Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",15
+72,"confirmed","Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",16
+73,"confirmed","Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",17
+102,"confirmed","Quebec","","Canada","","","","2022-05-19","genital ulcers",18
+103,"confirmed","Quebec","","Canada","","","","2022-05-19","genital ulcers",19
+104,"confirmed","Quebec","","Canada","","","","2022-05-20","genital ulcers",20
+105,"confirmed","Quebec","","Canada","","","","2022-05-20","genital ulcers",21
+106,"confirmed","Quebec","","Canada","","","","2022-05-20","genital ulcers",22
+186,"confirmed","Ontario","Toronto","Canada","40-49","male","","2022-05-26","",23
+380,"confirmed","Ontario","Toronto","Canada","","","","2022-05-31","",24
+403,"confirmed","Quebec","","Canada","","","","2022-05-26","",25
+404,"confirmed","Quebec","","Canada","","","","2022-05-26","",26
+405,"confirmed","Quebec","","Canada","","","","2022-05-26","",27
+406,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",28
+407,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",29
+408,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",30
+409,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",31
+410,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",32
+411,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",33
+412,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",34
+413,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",35
+414,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",36
+415,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",37
+416,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",38
+417,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",39
+418,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",40
+419,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",41
+420,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",42
+421,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",43
+422,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",44
+423,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",45
+424,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",46
+425,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",47
+426,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",48
+427,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",49
+428,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",50
+429,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",51
+430,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",52
+431,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",53
+432,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",54
+433,"confirmed","Quebec","","Canada","","","","2022-06-02","genital ulcer lesions",55
+434,"confirmed","Quebec","","Canada","","","","2022-06-02","genital ulcer lesions",56
+435,"confirmed","Quebec","","Canada","","","","2022-06-02","genital ulcer lesions",57
+861,"confirmed","Ontario","Toronto","Canada","","","","2022-06-02","",58
+862,"confirmed","Ontario","Toronto","Canada","","","","2022-06-02","",59
+863,"confirmed","Ontario","Toronto","Canada","","","","2022-06-02","",60
+864,"confirmed","Ontario","Toronto","Canada","","","","2022-06-03","",61
+865,"confirmed","Ontario","Toronto","Canada","","","","2022-06-03","",62
+879,"confirmed","Ontario","Toronto","Canada","","","","2022-06-03","",63
+1008,"confirmed","Alberta","","Canada","","male","","2022-06-02","",64
+1108,"confirmed","Quebec","","Canada","","","","2022-06-02","",65
+1109,"confirmed","Quebec","","Canada","","","","2022-06-02","",66
+1110,"confirmed","Quebec","","Canada","","","","2022-06-02","",67
+1111,"confirmed","Quebec","","Canada","","","","2022-06-02","",68
+1112,"confirmed","Quebec","","Canada","","","","2022-06-02","",69
+1113,"confirmed","Quebec","","Canada","","","","2022-06-02","",70
+1114,"confirmed","Quebec","","Canada","","","","2022-06-02","",71
+1115,"confirmed","Quebec","","Canada","","","","2022-06-02","",72
+1116,"confirmed","Quebec","","Canada","","","","2022-06-02","",73
+1117,"confirmed","Quebec","","Canada","","","","2022-06-02","",74
+1118,"confirmed","Quebec","","Canada","","","","2022-06-02","",75
+1119,"confirmed","Quebec","","Canada","","","","2022-06-02","",76
+1120,"confirmed","Quebec","","Canada","","","","2022-06-02","",77
+1121,"confirmed","Quebec","","Canada","","","","2022-06-02","",78
+1122,"confirmed","Quebec","","Canada","","","","2022-06-02","",79
+1123,"confirmed","Quebec","","Canada","","","","2022-06-02","",80
+1249,"confirmed","British Columbia","Vancouver","Canada","","","","2022-06-06","",81

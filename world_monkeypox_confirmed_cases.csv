@@ -1,0 +1,1035 @@
+"ID","Status","Location","City","Country","Age","Gender","Date_onset","Date_confirmation","Symptoms","observation"
+1,"confirmed","Guy's and St Thomas Hospital London","London","England","","","2022-04-29","2022-05-06","rash",1
+2,"confirmed","Guy's and St Thomas Hospital London","London","England","","","2022-05-05","2022-05-12","rash",2
+3,"confirmed","London","London","England","","","2022-04-30","2022-05-13","vesicular rash",3
+4,"confirmed","London","London","England","","male","","2022-05-15","vesicular rash",4
+5,"confirmed","London","London","England","","male","","2022-05-15","vesicular rash",5
+6,"confirmed","London","London","England","","male","","2022-05-15","vesicular rash",6
+7,"confirmed","Newcastle","Newcastle","England","","male","","2022-05-15","vesicular rash",7
+8,"confirmed","Lisbon","Lisbon","Portugal","20-44","male","","2022-05-17","skin lesions, ulcerative lesions",8
+9,"confirmed","Lisbon","Lisbon","Portugal","20-44","male","","2022-05-17","skin lesions, ulcerative lesions",9
+10,"confirmed","Lisbon","Lisbon","Portugal","20-44","male","","2022-05-17","skin lesions, ulcerative lesions",10
+11,"confirmed","Lisbon","Lisbon","Portugal","20-44","male","","2022-05-18","skin lesions, ulcerative lesions",11
+12,"confirmed","Lisbon","Lisbon","Portugal","20-44","male","","2022-05-18","skin lesions, ulcerative lesions",12
+13,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",13
+14,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",14
+15,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",15
+16,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",16
+17,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",17
+18,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",18
+19,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",19
+20,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",20
+21,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-18","ulcerative lesions",21
+22,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-19","ulcerative lesions",22
+23,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-19","ulcerative lesions",23
+24,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-19","ulcerative lesions",24
+25,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-19","ulcerative lesions",25
+26,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-19","ulcerative lesions",26
+27,"confirmed","Lisbon and Tagus Valley","Lisbon","Portugal","20-44","male","","2022-05-19","ulcerative lesions",27
+28,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",28
+29,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",29
+30,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",30
+31,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",31
+32,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",32
+33,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",33
+34,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-18","",34
+35,"confirmed","Sandoval Health Center, Madrid","Madrid","Spain","","male","","2022-05-25","",35
+36,"confirmed","Massachusetts General Hospital, Boston","Boston","United States","","male","","2022-05-18","",36
+37,"confirmed","London","London","England","","","","2022-05-18","",37
+38,"confirmed","South East","South East","England","","","","2022-05-18","",38
+39,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",39
+40,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",40
+41,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",41
+42,"confirmed","Clinique l'Actuel, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",42
+43,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",43
+44,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",44
+45,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",45
+46,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",46
+47,"confirmed","Clinique l'Agora, Montreal","","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",47
+48,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-23","oral and genital ulcers, fever",48
+49,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",49
+50,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",50
+51,"confirmed","Clinique a la Licorne, Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",51
+52,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",52
+53,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",53
+54,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",54
+55,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",55
+56,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",56
+57,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",57
+58,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",58
+59,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",59
+60,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",60
+61,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",61
+62,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",62
+63,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",63
+64,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",64
+65,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",65
+66,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",66
+67,"confirmed","Stockholm Region","Stockholm","Sweden","","male","","2022-05-19","",67
+68,"confirmed","Spallanzani Hospital, Rome, Lazio","Rome","Italy","40-44","male","","2022-05-19","lesions",68
+69,"confirmed","Gran Canaria, Canary Islands","Gran Canaria","Spain","","male","","2022-05-23","",69
+70,"confirmed","Montreal","Montreal","Canada","30-59","male","2022-04-29","2022-05-26","oral and genital ulcers, fever",70
+71,"confirmed","Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",71
+72,"confirmed","Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",72
+73,"confirmed","Montreal","Montreal","Canada","30-59","male","","2022-05-26","oral and genital ulcers, fever",73
+74,"confirmed","Spallanzani Hospital, Rome, Lazio","Rome","Italy","","","","2022-05-20","",74
+75,"confirmed","Spallanzani Hospital, Rome, Lazio","Rome","Italy","","","","2022-05-20","",75
+76,"confirmed","île-de-France","île-de-France","France","25-29","male","","2022-05-19","",76
+77,"confirmed","","","Portugal","20-44","male","","2022-05-19","",77
+78,"confirmed","","","Portugal","20-44","male","","2022-05-19","",78
+79,"confirmed","","","Portugal","20-44","male","","2022-05-19","",79
+80,"confirmed","","","Portugal","20-44","male","","2022-05-23","",80
+81,"confirmed","","","Portugal","20-44","male","","2022-05-23","",81
+82,"confirmed","","","Portugal","20-44","male","","2022-05-23","",82
+83,"confirmed","","","Portugal","20-44","male","","2022-05-23","",83
+84,"confirmed","","","Portugal","20-44","male","","2022-05-23","",84
+85,"confirmed","","","Portugal","20-44","male","","2022-05-23","",85
+86,"confirmed","","","Portugal","20-44","male","","2022-05-23","",86
+87,"confirmed","","","Portugal","20-44","male","","2022-05-23","",87
+88,"confirmed","","","Portugal","20-44","male","","2022-05-23","",88
+89,"confirmed","","","Portugal","20-44","male","","2022-05-23","",89
+90,"confirmed","","","Portugal","20-44","male","","2022-05-23","",90
+91,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",91
+92,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",92
+93,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",93
+94,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",94
+95,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",95
+96,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",96
+97,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",97
+98,"confirmed","Madrid","Madrid","Spain","","male","","2022-05-20","",98
+99,"confirmed","Antwerp","Antwerp","Belgium","","","","2022-05-20","",99
+100,"confirmed","Antwerp","Antwerp","Belgium","30-34","male","","2022-05-19","perianal papules; inguinal adenopathy",100
+101,"confirmed","Bellevue Hospital, New York City","New York City","United States","","male","","2022-05-20","",101
+102,"confirmed","Quebec","","Canada","","","","2022-05-19","genital ulcers",102
+103,"confirmed","Quebec","","Canada","","","","2022-05-19","genital ulcers",103
+104,"confirmed","Quebec","","Canada","","","","2022-05-20","genital ulcers",104
+105,"confirmed","Quebec","","Canada","","","","2022-05-20","genital ulcers",105
+106,"confirmed","Quebec","","Canada","","","","2022-05-20","genital ulcers",106
+107,"confirmed","Sydney","Sydney","Australia","40-49","male","","2022-05-20","",107
+108,"confirmed","The Alfred Hospital","Melbourne","Australia","30-39","male","2022-05-09","2022-05-20","genital rash",108
+109,"confirmed","Antwerp","","Belgium","","","","2022-05-20","",109
+110,"confirmed","","Munich","Germany","25-29","male","","2022-05-19","Slight swallowing difficulties and an elevated temperature",110
+112,"confirmed","","Madrid","Spain","","","","2022-05-21","",111
+113,"confirmed","","Madrid","Spain","","","","2022-05-21","",112
+114,"confirmed","","Madrid","Spain","","","","2022-05-21","",113
+115,"confirmed","","Madrid","Spain","","","","2022-05-21","",114
+116,"confirmed","","Madrid","Spain","","","","2022-05-21","",115
+117,"confirmed","","","England","","","","2022-05-20","",116
+118,"confirmed","","","England","","","","2022-05-20","",117
+119,"confirmed","","","England","","","","2022-05-20","",118
+120,"confirmed","","","England","","","","2022-05-20","",119
+121,"confirmed","","","England","","","","2022-05-20","",120
+122,"confirmed","","","England","","","","2022-05-20","",121
+123,"confirmed","","","England","","","","2022-05-20","",122
+124,"confirmed","","","England","","","","2022-05-20","",123
+125,"confirmed","","","England","","","","2022-05-20","",124
+126,"confirmed","","","England","","","","2022-05-20","",125
+127,"confirmed","","","England","","","","2022-05-20","",126
+128,"confirmed","","Madrid","Spain","","male","","2022-05-21","",127
+129,"confirmed","","Madrid","Spain","","male","","2022-05-21","",128
+130,"confirmed","","Madrid","Spain","","male","","2022-05-21","",129
+131,"confirmed","","Madrid","Spain","","male","","2022-05-21","",130
+132,"confirmed","","Madrid","Spain","","male","","2022-05-25","",131
+133,"confirmed","","Madrid","Spain","","male","","2022-05-25","",132
+134,"confirmed","","Madrid","Spain","","male","","2022-05-25","",133
+135,"confirmed","","Madrid","Spain","","male","","2022-05-25","",134
+136,"confirmed","","Madrid","Spain","","male","","2022-05-25","",135
+137,"confirmed","Canary Islands","Tenerife","Spain","","male","","2022-05-24","",136
+139,"confirmed","Galicia","","Spain","","","","2022-05-30","",137
+141,"confirmed","","","Netherlands","","male","","2022-05-20","",138
+142,"confirmed","Basque Country","","Spain","","","","2022-05-26","",139
+143,"confirmed","Ichilov Hospital","Tel Aviv","Israel","30-39","male","","2022-05-21","",140
+144,"confirmed","Barcelona, Catalonia","Barcelona","Spain","","","","2022-05-27","",141
+145,"confirmed","Berlin","Berlin","Germany","50-59","male","","2022-05-20","",142
+146,"confirmed","Bern","Bern","Switzerland","","male","","2022-05-21","fever, rash",143
+147,"confirmed","","Berlin","Germany","","","","2022-05-21","",144
+148,"confirmed","","Madrid","Spain","","","","2022-05-25","",145
+149,"confirmed","","Madrid","Spain","","","","2022-05-25","",146
+150,"confirmed","","Madrid","Spain","","","","2022-05-26","",147
+151,"confirmed","","Madrid","Spain","","","","2022-05-26","",148
+152,"confirmed","","Madrid","Spain","","","","2022-05-26","",149
+153,"confirmed","","Madrid","Spain","","","","2022-05-26","",150
+154,"confirmed","","Madrid","Spain","","","","2022-05-27","",151
+155,"confirmed","","Madrid","Spain","","","","2022-05-27","",152
+156,"confirmed","","Madrid","Spain","","","","2022-05-27","",153
+157,"confirmed","","Madrid","Spain","","","","2022-05-27","",154
+158,"confirmed","","Madrid","Spain","","","","2022-05-27","",155
+159,"confirmed","","Madrid","Spain","","","","2022-05-27","",156
+160,"confirmed","","Madrid","Spain","","","","2022-05-27","",157
+161,"confirmed","","Madrid","Spain","","","","2022-05-27","",158
+162,"confirmed","","Madrid","Spain","","","","2022-05-27","",159
+163,"confirmed","","Madrid","Spain","","","","2022-05-27","",160
+164,"confirmed","","Madrid","Spain","","","","2022-05-27","",161
+165,"confirmed","","Madrid","Spain","","","","2022-05-27","",162
+166,"confirmed","","Madrid","Spain","","","","2022-05-27","",163
+167,"confirmed","","Madrid","Spain","","","","2022-05-27","",164
+168,"confirmed","","Madrid","Spain","","","","2022-05-27","",165
+169,"confirmed","","Madrid","Spain","","","","2022-05-29","",166
+170,"confirmed","","Madrid","Spain","","","","2022-05-29","",167
+171,"confirmed","","Madrid","Spain","","","","2022-05-29","",168
+172,"confirmed","","Madrid","Spain","","","","2022-05-29","",169
+173,"confirmed","","Madrid","Spain","","","","2022-05-29","",170
+174,"confirmed","","Madrid","Spain","","","","2022-05-29","",171
+175,"confirmed","","Madrid","Spain","","","","2022-05-29","",172
+176,"confirmed","","Madrid","Spain","","","","2022-05-29","",173
+177,"confirmed","","Madrid","Spain","","","","2022-05-29","",174
+178,"confirmed","","Madrid","Spain","","","","2022-05-30","",175
+179,"confirmed","","Madrid","Spain","","","","2022-05-31","",176
+180,"confirmed","","Madrid","Spain","","","","2022-05-31","",177
+181,"confirmed","","Madrid","Spain","","","","2022-05-31","",178
+185,"confirmed","Seville, Andalusia","","Spain","","","","2022-05-21","",179
+186,"confirmed","Ontario","Toronto","Canada","40-49","male","","2022-05-26","",180
+189,"confirmed","","Aragon","Spain","","male","","2022-05-26","",181
+190,"confirmed","","Vienna","Austria","35-39","male","","2022-05-23","fever, lesions",182
+191,"confirmed","Wallonia","Liège","Belgium","","male","","2022-05-21","",183
+192,"confirmed","","","Netherlands","","","","2022-05-21","",184
+193,"confirmed","Broward County, Florida","","United States","","","","2022-05-26","",185
+194,"confirmed","","Buenos Aires","Argentina","","","","2022-05-27","pustules, fever",186
+195,"confirmed","","","Denmark","","male","","2022-05-23","",187
+196,"confirmed","Spallanzani Hospital, Arezzo, Tuscany","Arezzo","Italy","30-34","male","2022-05-15","2022-05-23","skin lesions",188
+197,"confirmed","Galicia","","Spain","","","","2022-06-06","",189
+198,"confirmed","Galicia","","Spain","","","","2022-06-06","",190
+200,"confirmed","","Valencia","Spain","","","","2022-06-06","",191
+201,"confirmed","Gran Canaria","Gran Canaria","Spain","","male","","2022-05-27","",192
+202,"confirmed","Gran Canaria","Gran Canaria","Spain","","male","","2022-05-27","",193
+203,"confirmed","Gran Canaria","Gran Canaria","Spain","","male","","2022-05-27","",194
+205,"confirmed","","","Portugal","20-64","male","","2022-05-23","",195
+206,"confirmed","","","Portugal","20-64","male","","2022-05-23","",196
+207,"confirmed","","","Portugal","20-64","male","","2022-05-23","",197
+208,"confirmed","","","England","","","","2022-05-23","",198
+209,"confirmed","","","England","","","","2022-05-23","",199
+210,"confirmed","","","England","","","","2022-05-23","",200
+211,"confirmed","","","England","","","","2022-05-23","",201
+212,"confirmed","","","England","","","","2022-05-23","",202
+213,"confirmed","","","England","","","","2022-05-23","",203
+214,"confirmed","","","England","","","","2022-05-23","",204
+215,"confirmed","","","England","","","","2022-05-23","",205
+216,"confirmed","","","England","","","","2022-05-23","",206
+217,"confirmed","","","England","","","","2022-05-23","",207
+218,"confirmed","","","England","","","","2022-05-23","",208
+219,"confirmed","","","England","","","","2022-05-23","",209
+220,"confirmed","","","England","","","","2022-05-23","",210
+221,"confirmed","","","England","","","","2022-05-23","",211
+222,"confirmed","","","England","","","","2022-05-23","",212
+223,"confirmed","","","England","","","","2022-05-23","",213
+224,"confirmed","","","England","","","","2022-05-23","",214
+225,"confirmed","","","England","","","","2022-05-23","",215
+226,"confirmed","","","England","","","","2022-05-23","",216
+227,"confirmed","","","England","","","","2022-05-23","",217
+228,"confirmed","","","England","","","","2022-05-23","",218
+229,"confirmed","","","England","","","","2022-05-23","",219
+230,"confirmed","","","England","","","","2022-05-23","",220
+231,"confirmed","","","England","","","","2022-05-23","",221
+232,"confirmed","","","England","","","","2022-05-23","",222
+233,"confirmed","","","England","","","","2022-05-23","",223
+234,"confirmed","","","England","","","","2022-05-23","",224
+235,"confirmed","","","England","","","","2022-05-23","",225
+236,"confirmed","","","England","","","","2022-05-23","",226
+237,"confirmed","","","England","","","","2022-05-23","",227
+238,"confirmed","","","England","","","","2022-05-23","",228
+239,"confirmed","","","England","","","","2022-05-23","",229
+240,"confirmed","","","England","","","","2022-05-23","",230
+241,"confirmed","","","England","","","","2022-05-23","",231
+242,"confirmed","","","England","","","","2022-05-23","",232
+243,"confirmed","","","England","","","","2022-05-23","",233
+244,"confirmed","Salt Lake County, Utah","","United States","","male","","2022-05-25","",234
+245,"confirmed","Salt Lake County, Utah","","United States","","male","","2022-05-25","",235
+246,"confirmed","Ortenaukreis","Ortenaukreis","Germany","","male","","2022-05-23","fever, cough, skin lesions",236
+248,"confirmed","","","Netherlands","","male","","2022-05-23","",237
+249,"confirmed","","","Netherlands","","male","","2022-05-23","",238
+250,"confirmed","","","Netherlands","","male","","2022-05-23","",239
+251,"confirmed","","","Netherlands","","male","","2022-05-23","",240
+252,"confirmed","île-de-France","île-de-France","France","","","","2022-05-23","",241
+253,"confirmed","île-de-France","île-de-France","France","","","","2022-05-23","",242
+258,"confirmed","","Berlin","Germany","","male","","2022-05-21","",243
+259,"confirmed","Jerichower Land","Jerichower Land","Germany","","male","","2022-05-23","",244
+260,"confirmed","Broward County, Florida","","United States","","","","2022-05-26","",245
+261,"confirmed","King County, Washington","","United States","","male","","2022-05-26","",246
+262,"confirmed","","","Slovenia","","male","","2022-05-24","",247
+263,"confirmed","","","Scotland","","","","2022-05-23","",248
+264,"confirmed","","Prague","Czech Republic","","female","","2022-05-24","",249
+265,"confirmed","","Lyon","France","","male","","2022-05-24","",250
+266,"confirmed","Malaga, Andalusia","Malaga","Spain","","male","","2022-05-30","",251
+269,"confirmed","Seville, Andalusia","Seville","Spain","","male","","2022-05-27","",252
+270,"confirmed","Cadiz, Andalusia","Cadiz","Spain","","male","","2022-05-27","",253
+271,"confirmed","","","United Arab Emirates","25-29","female","","2022-05-24","",254
+272,"confirmed","Sacramento County, California","","United States","","","","2022-05-26","",255
+273,"confirmed","","","England","","","","2022-05-24","",256
+274,"confirmed","","","England","","","","2022-05-24","",257
+275,"confirmed","","","England","","","","2022-05-24","",258
+276,"confirmed","","","England","","","","2022-05-24","",259
+277,"confirmed","","","England","","","","2022-05-24","",260
+278,"confirmed","","","England","","","","2022-05-24","",261
+279,"confirmed","","","England","","","","2022-05-24","",262
+280,"confirmed","","","England","","","","2022-05-24","",263
+281,"confirmed","","","England","","","","2022-05-24","",264
+282,"confirmed","","","England","","","","2022-05-24","",265
+283,"confirmed","","","England","","","","2022-05-24","",266
+284,"confirmed","","","England","","","","2022-05-24","",267
+285,"confirmed","","","England","","","","2022-05-24","",268
+286,"confirmed","","","England","","","","2022-05-24","",269
+287,"confirmed","Geneva Canton","","Switzerland","","male","","2022-05-24","",270
+288,"confirmed","Frankfurt, Hesse","Frankfurt","Germany","","","","2022-05-24","",271
+289,"confirmed","Sacco Hospital, Milan","Lombardy","Italy","","","","2022-05-24","",272
+292,"confirmed","Gran Canaria","Gran Canaria","Spain","","male","","2022-05-31","",273
+293,"confirmed","Gran Canaria","Gran Canaria","Spain","","male","","2022-05-31","",274
+295,"confirmed","Toulouse, Occitanie","Toulouse","France","","male","","2022-05-24","",275
+296,"confirmed","","","Portugal","<40","male","","2022-05-24","",276
+297,"confirmed","","","Portugal","<40","male","","2022-05-24","",277
+298,"confirmed","","Cologne","Germany","55-59","male","","2022-05-24","",278
+299,"confirmed","","Cologne","Germany","35-39","male","","2022-05-24","",279
+300,"confirmed","","Cologne","Germany","45-49","male","","2022-05-24","",280
+301,"confirmed","","Munich","Germany","30-34","male","","2022-05-24","",281
+302,"confirmed","","Ansbach","Germany","","male","","2022-05-24","",282
+303,"confirmed","Ortenaukreis","Ortenaukreis","Germany","","male","","2022-05-25","",283
+304,"confirmed","Catalonia","","Spain","","","","2022-05-24","",284
+305,"confirmed","Catalonia","","Spain","","","","2022-05-24","",285
+306,"confirmed","Catalonia","","Spain","","","","2022-05-24","",286
+307,"confirmed","Catalonia","","Spain","","","","2022-05-30","",287
+308,"confirmed","Catalonia","","Spain","","","","2022-05-30","",288
+309,"confirmed","Catalonia","","Spain","","","","2022-05-30","",289
+310,"confirmed","Madrid","","Spain","","","","2022-05-31","",290
+311,"confirmed","Madrid","","Spain","","","","2022-05-31","",291
+312,"confirmed","Madrid","","Spain","","","","2022-05-31","",292
+313,"confirmed","","Hus","Finland","","","","2022-05-27","blisters, high fever",293
+314,"confirmed","","","Netherlands","","","","2022-05-25","",294
+315,"confirmed","","","Netherlands","","","","2022-05-25","",295
+316,"confirmed","","","Netherlands","","","","2022-05-25","",296
+317,"confirmed","","","Netherlands","","","","2022-05-25","",297
+318,"confirmed","","","Netherlands","","","","2022-05-25","",298
+319,"confirmed","","","Netherlands","","","","2022-05-25","",299
+322,"confirmed","","","Belgium","","","","2022-05-25","",300
+323,"confirmed","","","Belgium","","","","2022-05-25","",301
+324,"confirmed","","","Belgium","","","","2022-05-28","",302
+325,"confirmed","","","England","","","","2022-05-25","",303
+326,"confirmed","","","England","","","","2022-05-25","",304
+327,"confirmed","","","England","","","","2022-05-25","",305
+328,"confirmed","","","England","","","","2022-05-25","",306
+329,"confirmed","","","England","","","","2022-05-25","",307
+330,"confirmed","","","England","","","","2022-05-25","",308
+331,"confirmed","","","England","","","","2022-05-25","",309
+332,"confirmed","Spallanzani Hospital, Lazio","Rome","Italy","","","","2022-05-25","",310
+333,"confirmed","Spallanzani Hospital, Lazio","Rome","Italy","","","","2022-05-25","",311
+334,"confirmed","Lombardy","","Italy","","","","2022-05-25","",312
+335,"confirmed","Lombardy","","Italy","","","","2022-05-25","",313
+339,"confirmed","","","Portugal","20-64","male","","2022-05-25","",314
+340,"confirmed","","","Portugal","20-64","male","","2022-05-25","",315
+341,"confirmed","","","Portugal","20-64","male","","2022-05-25","",316
+342,"confirmed","","","Portugal","20-64","male","","2022-05-25","",317
+343,"confirmed","","","Portugal","20-64","male","","2022-05-25","",318
+344,"confirmed","","","Portugal","20-64","male","","2022-05-25","",319
+345,"confirmed","","","Portugal","20-64","male","","2022-05-25","",320
+346,"confirmed","","","Portugal","20-64","male","","2022-05-25","",321
+347,"confirmed","","","Portugal","20-64","male","","2022-05-25","",322
+348,"confirmed","","","Portugal","20-64","male","","2022-05-25","",323
+350,"confirmed","Västra Götaland","Västra Götaland","Sweden","","","","2022-05-25","",324
+351,"confirmed","","","Wales","","","","2022-05-26","",325
+352,"confirmed","","","Northern Ireland","","","","2022-05-26","",326
+353,"confirmed","Normandy","","France","","","","2022-05-25","",327
+354,"confirmed","île-de-France","","France","","","","2022-05-25","",328
+355,"confirmed","Virginia","","United States","","female","","2022-05-26","",329
+356,"confirmed","","","Scotland","","","","2022-05-26","",330
+357,"confirmed","","","Scotland","","","","2022-05-26","",331
+358,"confirmed","","","England","","","","2022-05-26","",332
+359,"confirmed","","","England","","","","2022-05-26","",333
+360,"confirmed","","","England","","","","2022-05-26","",334
+361,"confirmed","","","England","","","","2022-05-26","",335
+362,"confirmed","","","England","","","","2022-05-26","",336
+363,"confirmed","","","England","","","","2022-05-26","",337
+364,"confirmed","","","England","","","","2022-05-26","",338
+365,"confirmed","","","England","","","","2022-05-26","",339
+366,"confirmed","","","Portugal","20-64","male","","2022-05-26","",340
+367,"confirmed","","","Portugal","20-64","male","","2022-05-26","",341
+368,"confirmed","","","Portugal","20-64","male","","2022-05-26","",342
+369,"confirmed","","","Portugal","20-64","male","","2022-05-26","",343
+370,"confirmed","","","Portugal","20-64","male","","2022-05-26","",344
+371,"confirmed","","","Portugal","20-64","male","","2022-05-26","",345
+372,"confirmed","","","Portugal","20-64","male","","2022-05-26","",346
+373,"confirmed","","","Portugal","20-64","male","","2022-05-26","",347
+374,"confirmed","","","Portugal","20-64","male","","2022-05-26","",348
+375,"confirmed","","","Czech Republic","","","","2022-05-26","",349
+376,"confirmed","","","Czech Republic","","","","2022-05-26","",350
+377,"confirmed","","","Czech Republic","","","","2022-05-26","",351
+378,"confirmed","","","Czech Republic","","","","2022-05-26","",352
+379,"confirmed","","","Slovenia","","","","2022-05-25","",353
+380,"confirmed","Ontario","Toronto","Canada","","","","2022-05-31","",354
+383,"confirmed","Basque Country","","Spain","","","","2022-05-26","",355
+384,"confirmed","Madrid","","Spain","","","","2022-05-26","",356
+385,"confirmed","Madrid","","Spain","","","","2022-05-26","",357
+386,"confirmed","Madrid","","Spain","","","","2022-05-26","",358
+387,"confirmed","Madrid","","Spain","","","","2022-05-26","",359
+388,"confirmed","Madrid","","Spain","","","","2022-05-26","",360
+389,"confirmed","Madrid","","Spain","","","","2022-05-26","",361
+390,"confirmed","Madrid","","Spain","","","","2022-05-26","",362
+391,"confirmed","Madrid","","Spain","","","","2022-05-26","",363
+392,"confirmed","Madrid","","Spain","","","","2022-05-26","",364
+393,"confirmed","Madrid","","Spain","","","","2022-05-26","",365
+394,"confirmed","Madrid","","Spain","","","","2022-05-26","",366
+395,"confirmed","Madrid","","Spain","","","","2022-05-26","",367
+396,"confirmed","Madrid","","Spain","","","","2022-05-26","",368
+397,"confirmed","Madrid","","Spain","","","","2022-05-26","",369
+398,"confirmed","Madrid","","Spain","","","","2022-05-26","",370
+399,"confirmed","Madrid","","Spain","","","","2022-05-26","",371
+400,"confirmed","Madrid","","Spain","","","","2022-05-26","",372
+401,"confirmed","Madrid","","Spain","","","","2022-05-26","",373
+403,"confirmed","Quebec","","Canada","","","","2022-05-26","",374
+404,"confirmed","Quebec","","Canada","","","","2022-05-26","",375
+405,"confirmed","Quebec","","Canada","","","","2022-05-26","",376
+406,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",377
+407,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",378
+408,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",379
+409,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",380
+410,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",381
+411,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",382
+412,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",383
+413,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",384
+414,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",385
+415,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",386
+416,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",387
+417,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",388
+418,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",389
+419,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",390
+420,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",391
+421,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",392
+422,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",393
+423,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",394
+424,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",395
+425,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",396
+426,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",397
+427,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",398
+428,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",399
+429,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",400
+430,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",401
+431,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",402
+432,"confirmed","Quebec","","Canada","","","","2022-06-01","genital ulcer lesions",403
+433,"confirmed","Quebec","","Canada","","","","2022-06-02","genital ulcer lesions",404
+434,"confirmed","Quebec","","Canada","","","","2022-06-02","genital ulcer lesions",405
+435,"confirmed","Quebec","","Canada","","","","2022-06-02","genital ulcer lesions",406
+436,"confirmed","Colorado, Denver area","","United States","","male","","2022-05-27","",407
+437,"confirmed","","","Denmark","","","","2022-05-24","",408
+439,"confirmed","Zurich","","Switzerland","40-44","","","2022-05-26","",409
+440,"confirmed","Bologna, Emilia-Romagna","Bologna","Italy","35-39","male","","2022-05-26","blisters",410
+441,"confirmed","Dusseldorf, Nordrhein Westfalen","Dusseldorf","Germany","","male","","2022-05-26","",411
+442,"confirmed","Dusseldorf, Nordrhein Westfalen","Dusseldorf","Germany","","male","","2022-05-26","",412
+443,"confirmed","","Berlin","Germany","","","","2022-05-27","",413
+444,"confirmed","","Berlin","Germany","","","","2022-05-27","",414
+445,"confirmed","","Berlin","Germany","","","","2022-05-27","",415
+447,"confirmed","Buenos Aires","","Argentina","","","","2022-05-27","ulcerative lesions",416
+448,"confirmed","","","England","","","","2022-05-26","",417
+449,"confirmed","","","England","","","","2022-05-26","",418
+450,"confirmed","","","England","","","","2022-05-26","",419
+451,"confirmed","","","England","","","","2022-05-26","",420
+452,"confirmed","","","England","","","","2022-05-26","",421
+453,"confirmed","","","England","","","","2022-05-26","",422
+454,"confirmed","","","England","","","","2022-05-26","",423
+455,"confirmed","","","England","","","","2022-05-26","",424
+456,"confirmed","","","England","","","","2022-05-26","",425
+457,"confirmed","","","England","","","","2022-05-26","",426
+458,"confirmed","","","England","","","","2022-05-26","",427
+459,"confirmed","","","England","","","","2022-05-26","",428
+460,"confirmed","","","England","","","","2022-05-26","",429
+461,"confirmed","","","England","","","","2022-05-26","",430
+462,"confirmed","","","England","","","","2022-05-26","",431
+463,"confirmed","","","England","","","","2022-05-26","",432
+464,"confirmed","","","Portugal","20-64","male","","2022-05-27","",433
+465,"confirmed","","","Portugal","20-64","male","","2022-05-27","",434
+466,"confirmed","","","Portugal","20-64","male","","2022-05-27","",435
+467,"confirmed","","","Portugal","20-64","male","","2022-05-27","",436
+468,"confirmed","","","Portugal","20-64","male","","2022-05-27","",437
+469,"confirmed","","","Portugal","20-64","male","","2022-05-27","",438
+470,"confirmed","","","Portugal","20-64","male","","2022-05-27","",439
+471,"confirmed","","","Portugal","20-64","male","","2022-05-27","",440
+472,"confirmed","","","Portugal","20-64","male","","2022-05-27","",441
+473,"confirmed","","","Portugal","20-64","male","","2022-05-27","",442
+474,"confirmed","","","Portugal","20-64","male","","2022-05-27","",443
+475,"confirmed","","","Portugal","20-64","male","","2022-05-27","",444
+476,"confirmed","","","Portugal","20-64","male","","2022-05-27","",445
+477,"confirmed","","","Portugal","20-64","male","","2022-05-27","",446
+478,"confirmed","","","Portugal","20-64","male","","2022-05-27","",447
+479,"confirmed","","","Portugal","20-64","male","","2022-05-27","",448
+480,"confirmed","Lombardy","Milan","Italy","","","","2022-05-26","",449
+481,"confirmed","Lombardy","Milan","Italy","","","","2022-05-26","",450
+482,"confirmed","","","Switzerland","","","","2022-05-27","",451
+483,"confirmed","","Berlin","Germany","","","","2022-05-27","",452
+484,"confirmed","","Berlin","Germany","","","","2022-05-27","",453
+485,"confirmed","","Münster","Germany","30-34","Male","","2022-05-27","",454
+486,"confirmed","Sacramento County, California","","United States","","","","2022-05-27","",455
+487,"confirmed","Colorado, Denver area","Denver","United States","","Male","","2022-05-27","",456
+488,"confirmed","New York","","United States","","","","2022-05-29","",457
+498,"confirmed","","Aachen","Germany","25-29","male","","2022-05-30","",458
+500,"confirmed","","","Malta","35-39","male","","2022-05-28","",459
+501,"confirmed","","","Ireland","","","","2022-05-27","",460
+502,"confirmed","","","Ireland","","","","2022-05-30","",461
+503,"confirmed","Mexico City ","","Mexico","50-54","male","","2022-05-28","",462
+504,"confirmed","Sheba Medical Center, Tel Aviv","","Israel","30-34","male","","2022-05-28","",463
+507,"confirmed","CHU Saint Pierre","Brussels","Belgium","","","","2022-05-28","",464
+508,"confirmed","île-de-France","","France","","","","2022-05-28","",465
+509,"confirmed","île-de-France","","France","","","","2022-05-28","",466
+510,"confirmed","île-de-France","","France","","","","2022-05-28","",467
+511,"confirmed","île-de-France","","France","","","","2022-05-28","",468
+512,"confirmed","île-de-France","","France","","","","2022-05-28","",469
+513,"confirmed","île-de-France","","France","","","","2022-05-28","",470
+514,"confirmed","île-de-France","","France","","","","2022-05-28","",471
+515,"confirmed","île-de-France","","France","","","","2022-05-28","",472
+516,"confirmed","Occitanie","","France","","","","2022-05-28","",473
+517,"confirmed","","","United Arab Emirates","","","","2022-05-29","",474
+518,"confirmed","","","United Arab Emirates","","","","2022-05-29","",475
+519,"confirmed","","","United Arab Emirates","","","","2022-05-29","",476
+520,"confirmed","CHU Saint Pierre","Brussels","Belgium","","","","2022-05-28","",477
+521,"confirmed","","","Netherlands","","","","2022-05-30","",478
+522,"confirmed","","","Netherlands","","","","2022-05-30","",479
+523,"confirmed","","","Netherlands","","","","2022-05-30","",480
+524,"confirmed","","","Netherlands","","","","2022-05-30","",481
+525,"confirmed","","","Netherlands","","","","2022-05-30","",482
+526,"confirmed","","","Netherlands","","","","2022-05-30","",483
+527,"confirmed","","","Netherlands","","","","2022-05-30","",484
+528,"confirmed","","","Netherlands","","","","2022-05-30","",485
+529,"confirmed","","","Netherlands","","","","2022-05-30","",486
+530,"confirmed","","","Netherlands","","","","2022-05-30","",487
+531,"confirmed","","","Netherlands","","","","2022-05-30","",488
+532,"confirmed","","","Netherlands","","","","2022-05-30","",489
+533,"confirmed","","","Netherlands","","","","2022-05-30","",490
+534,"confirmed","","","Netherlands","","","","2022-05-30","",491
+535,"confirmed","","","Netherlands","","","","2022-06-02","",492
+536,"confirmed","","","Netherlands","","","","2022-06-02","",493
+537,"confirmed","","","Netherlands","","","","2022-06-02","",494
+538,"confirmed","","","Netherlands","","","","2022-06-02","",495
+539,"confirmed","","","Netherlands","","","","2022-06-02","",496
+540,"confirmed","","","Netherlands","","","","2022-06-02","",497
+543,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",498
+544,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",499
+545,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",500
+546,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",501
+547,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",502
+548,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",503
+549,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",504
+550,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",505
+551,"confirmed","Madrid","Madrid","Spain","","","","2022-05-31","",506
+552,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",507
+553,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",508
+554,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",509
+555,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",510
+556,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",511
+557,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",512
+558,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",513
+559,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",514
+560,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",515
+561,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",516
+562,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",517
+563,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",518
+564,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",519
+565,"confirmed","Madrid","Madrid","Spain","","","","2022-06-02","",520
+566,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",521
+567,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",522
+568,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",523
+569,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",524
+570,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",525
+571,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",526
+572,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",527
+573,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",528
+574,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",529
+575,"confirmed","Madrid","Madrid","Spain","","","","2022-06-03","",530
+585,"confirmed","Potsdam","Potsdam","Germany","40-44","male","","2022-05-28","",531
+589,"confirmed","California","","United States","","","","2022-05-29","",532
+592,"confirmed","","","Portugal","20-64","male","","2022-05-30","",533
+593,"confirmed","","","Portugal","20-64","male","","2022-05-30","",534
+594,"confirmed","","","Portugal","20-64","male","","2022-05-30","",535
+595,"confirmed","","","Portugal","20-64","male","","2022-05-30","",536
+596,"confirmed","","","Portugal","20-64","male","","2022-05-30","",537
+597,"confirmed","","","Portugal","20-64","male","","2022-05-30","",538
+598,"confirmed","","","Portugal","20-64","male","","2022-05-30","",539
+599,"confirmed","","","Portugal","20-64","male","","2022-05-30","",540
+600,"confirmed","","","Portugal","20-64","male","","2022-05-30","",541
+601,"confirmed","","","Portugal","20-64","male","","2022-05-30","",542
+602,"confirmed","","","Portugal","20-64","male","","2022-05-30","",543
+603,"confirmed","","","Portugal","20-64","male","","2022-05-30","",544
+604,"confirmed","","","Portugal","20-64","male","","2022-05-30","",545
+605,"confirmed","","","Portugal","20-64","male","","2022-05-30","",546
+606,"confirmed","","","Portugal","20-64","male","","2022-05-30","",547
+607,"confirmed","","","Portugal","20-64","male","","2022-05-30","",548
+608,"confirmed","","","Portugal","20-64","male","","2022-05-30","",549
+609,"confirmed","","","Portugal","20-64","male","","2022-05-30","",550
+610,"confirmed","","","Portugal","20-64","male","","2022-05-30","",551
+611,"confirmed","","","Portugal","20-64","male","","2022-05-30","",552
+612,"confirmed","","","Portugal","20-64","male","","2022-05-30","",553
+613,"confirmed","","","Portugal","20-64","male","","2022-05-30","",554
+614,"confirmed","Malaga, Andalusia","Malaga","Spain","","","","2022-06-03","",555
+615,"confirmed","Malaga, Andalusia","Malaga","Spain","","","","2022-06-03","",556
+629,"confirmed","Seville, Andalusia","Seville","Spain","","","","2022-06-03","",557
+639,"confirmed","Catalonia","","Spain","","","","2022-05-30","",558
+640,"confirmed","Catalonia","","Spain","","","","2022-05-30","",559
+645,"confirmed","Florida","","United States","","","","2022-05-31","",560
+646,"confirmed","Île-de-France","","France","","","","2022-05-30","",561
+647,"confirmed","Stockholm Region","","Sweden","","","","2022-05-30","",562
+650,"confirmed","","","Scotland","","","","2022-05-30","",563
+651,"confirmed","","","Northern Ireland","","","","2022-05-30","",564
+652,"confirmed","","","England","","","","2022-05-30","",565
+653,"confirmed","","","England","","","","2022-05-30","",566
+654,"confirmed","","","England","","","","2022-05-30","",567
+655,"confirmed","","","England","","","","2022-05-30","",568
+656,"confirmed","","","England","","","","2022-05-30","",569
+657,"confirmed","","","England","","","","2022-05-30","",570
+658,"confirmed","","","England","","","","2022-05-30","",571
+659,"confirmed","","","England","","","","2022-05-30","",572
+660,"confirmed","","","England","","","","2022-05-30","",573
+661,"confirmed","","","England","","","","2022-05-30","",574
+662,"confirmed","","","England","","","","2022-05-30","",575
+663,"confirmed","","","England","","","","2022-05-30","",576
+664,"confirmed","","","England","","","","2022-05-30","",577
+665,"confirmed","","","England","","","","2022-05-30","",578
+666,"confirmed","","","England","","","","2022-05-30","",579
+667,"confirmed","","","England","","","","2022-05-30","",580
+668,"confirmed","","","England","","","","2022-05-30","",581
+669,"confirmed","","","England","","","","2022-05-30","",582
+670,"confirmed","","","England","","","","2022-05-30","",583
+671,"confirmed","","","England","","","","2022-05-30","",584
+672,"confirmed","","","England","","","","2022-05-30","",585
+673,"confirmed","","","England","","","","2022-05-30","",586
+674,"confirmed","","","England","","","","2022-05-30","",587
+675,"confirmed","","","England","","","","2022-05-30","",588
+676,"confirmed","","","England","","","","2022-05-30","",589
+677,"confirmed","","","England","","","","2022-05-30","",590
+678,"confirmed","","","England","","","","2022-05-30","",591
+679,"confirmed","","","England","","","","2022-05-30","",592
+680,"confirmed","","","England","","","","2022-05-30","",593
+681,"confirmed","","","England","","","","2022-05-30","",594
+682,"confirmed","","","England","","","","2022-05-30","",595
+683,"confirmed","","","England","","","","2022-05-30","",596
+684,"confirmed","","","England","","","","2022-05-30","",597
+685,"confirmed","","","England","","","","2022-05-30","",598
+686,"confirmed","","","England","","","","2022-05-30","",599
+687,"confirmed","","","England","","","","2022-05-30","",600
+688,"confirmed","","","England","","","","2022-05-30","",601
+689,"confirmed","","","England","","","","2022-05-30","",602
+690,"confirmed","","","England","","","","2022-05-30","",603
+691,"confirmed","","","England","","","","2022-05-30","",604
+692,"confirmed","","","England","","","","2022-05-30","",605
+693,"confirmed","","","England","","","","2022-05-30","",606
+694,"confirmed","","","England","","","","2022-05-30","",607
+695,"confirmed","","","England","","","","2022-05-30","",608
+696,"confirmed","","","England","","","","2022-05-30","",609
+697,"confirmed","","","England","","","","2022-05-30","",610
+698,"confirmed","","","England","","","","2022-05-30","",611
+699,"confirmed","","","England","","","","2022-05-30","",612
+700,"confirmed","","","England","","","","2022-05-30","",613
+701,"confirmed","","","England","","","","2022-05-30","",614
+702,"confirmed","","","England","","","","2022-05-30","",615
+703,"confirmed","","","England","","","","2022-05-30","",616
+704,"confirmed","","","England","","","","2022-05-30","",617
+705,"confirmed","","","England","","","","2022-05-30","",618
+706,"confirmed","","","England","","","","2022-05-30","",619
+707,"confirmed","","","England","","","","2022-05-30","",620
+708,"confirmed","","","England","","","","2022-05-30","",621
+709,"confirmed","","","England","","","","2022-05-30","",622
+710,"confirmed","","","England","","","","2022-05-30","",623
+711,"confirmed","","","England","","","","2022-05-30","",624
+712,"confirmed","","","England","","","","2022-05-30","",625
+713,"confirmed","","","England","","","","2022-05-30","",626
+714,"confirmed","","","England","","","","2022-05-30","",627
+715,"confirmed","","","England","","","","2022-05-30","",628
+716,"confirmed","","","England","","","","2022-05-30","",629
+717,"confirmed","","","England","","","","2022-05-30","",630
+718,"confirmed","","","England","","","","2022-05-30","",631
+719,"confirmed","","","England","","","","2022-05-30","",632
+720,"confirmed","","","England","","","","2022-05-30","",633
+721,"confirmed","","","England","","","","2022-05-30","",634
+722,"confirmed","","","England","","","","2022-05-30","",635
+723,"confirmed","Rhein-Erft-Kreis","","Germany","20-24","male","","2022-05-30","",636
+724,"confirmed","Hamburg","Hamburg","Germany","30-34","male","","2022-05-30","",637
+725,"confirmed","","Berlin","Germany","","","","2022-06-03","",638
+726,"confirmed","","Berlin","Germany","","","","2022-06-03","",639
+727,"confirmed","","Berlin","Germany","","","","2022-06-03","",640
+728,"confirmed","","Berlin","Germany","","","","2022-06-03","",641
+729,"confirmed","","Berlin","Germany","","","","2022-06-03","",642
+730,"confirmed","","Berlin","Germany","","","","2022-06-03","",643
+731,"confirmed","","","England","","","","2022-05-31","",644
+732,"confirmed","","","England","","","","2022-05-31","",645
+733,"confirmed","","","England","","","","2022-05-31","",646
+734,"confirmed","","","England","","","","2022-05-31","",647
+735,"confirmed","","","England","","","","2022-05-31","",648
+736,"confirmed","","","England","","","","2022-05-31","",649
+737,"confirmed","","","England","","","","2022-05-31","",650
+738,"confirmed","","","England","","","","2022-05-31","",651
+739,"confirmed","","","England","","","","2022-05-31","",652
+740,"confirmed","","","England","","","","2022-05-31","",653
+741,"confirmed","","","England","","","","2022-05-31","",654
+742,"confirmed","","Berlin","Germany","","male","","2022-06-03","",655
+743,"confirmed","","Berlin","Germany","","male","","2022-05-31","",656
+744,"confirmed","","Berlin","Germany","","male","","2022-05-31","",657
+745,"confirmed","","Berlin","Germany","","male","","2022-05-31","",658
+746,"confirmed","","Berlin","Germany","","male","","2022-05-31","",659
+747,"confirmed","","Berlin","Germany","","male","","2022-05-31","",660
+748,"confirmed","","Berlin","Germany","","male","","2022-05-31","",661
+749,"confirmed","","Berlin","Germany","","male","","2022-05-31","",662
+750,"confirmed","","Berlin","Germany","","male","","2022-05-31","",663
+751,"confirmed","","Berlin","Germany","","male","","2022-05-31","",664
+752,"confirmed","","Berlin","Germany","","male","","2022-05-31","",665
+753,"confirmed","Region Skåne","","Sweden","","","","2022-05-31","",666
+754,"confirmed","Friuli Venezia Giulia","","Italy","30-34","male","","2022-05-31","",667
+755,"confirmed","","","Portugal","15-64","male","","2022-05-31","",668
+756,"confirmed","","","Portugal","15-64","male","","2022-05-31","",669
+757,"confirmed","","","Portugal","15-64","male","","2022-05-31","",670
+758,"confirmed","","","Portugal","15-64","male","","2022-05-31","",671
+759,"confirmed","","","Hungary","35-39","male","","2022-05-31","",672
+760,"confirmed","Lower Saxony","","Germany","","","","2022-05-31","",673
+761,"confirmed","","Dusseldorf","Germany","","","","2022-05-31","",674
+762,"confirmed","","Dusseldorf","Germany","","","","2022-05-31","",675
+763,"confirmed","","","Norway","","","","2022-05-31","",676
+764,"confirmed","Tenerife, Canary Islands","Tenerife","Spain","","","","2022-05-31","",677
+765,"confirmed","Tenerife, Canary Islands","Tenerife","Spain","","","","2022-05-31","",678
+766,"confirmed","Tenerife, Canary Islands","Tenerife","Spain","","","","2022-05-31","",679
+767,"confirmed","Gran Canaria, Canary Islands","Gran Canaria","Spain","","","","2022-06-02","",680
+768,"confirmed","Gran Canaria, Canary Islands","Gran Canaria","Spain","","","","2022-06-02","",681
+769,"confirmed","Gran Canaria, Canary Islands","Gran Canaria","Spain","","","","2022-06-02","",682
+770,"confirmed","Gran Canaria, Canary Islands","Gran Canaria","Spain","","","","2022-06-02","",683
+776,"confirmed","Sacramento County, California","","United States","","","","2022-05-31","",684
+777,"confirmed","Georgia","","United States","","","","2022-05-31","",685
+778,"confirmed","New York","","United States","","","","2022-05-31","",686
+779,"confirmed","New York","","United States","","","","2022-05-31","",687
+856,"confirmed","Mantua","","Italy","","male","","2022-05-31","",688
+858,"confirmed","Lombardia","","Italy","","male","","2022-05-29","",689
+861,"confirmed","Ontario","Toronto","Canada","","","","2022-06-02","",690
+862,"confirmed","Ontario","Toronto","Canada","","","","2022-06-02","",691
+863,"confirmed","Ontario","Toronto","Canada","","","","2022-06-02","",692
+864,"confirmed","Ontario","Toronto","Canada","","","","2022-06-03","",693
+865,"confirmed","Ontario","Toronto","Canada","","","","2022-06-03","",694
+868,"confirmed","Lombardia","Milan","Italy","","","","2022-05-31","",695
+869,"confirmed","Lombardia","Monza","Italy","","","","2022-05-31","",696
+870,"confirmed","Lombardia","Monza","Italy","","","","2022-05-31","",697
+871,"confirmed","Lombardia","Brescia","Italy","","male","","2022-05-31","",698
+872,"confirmed","","","Italy","","","","2022-06-01","",699
+873,"confirmed","","","England","","","","2022-06-01","",700
+874,"confirmed","","","England","","","","2022-06-01","",701
+875,"confirmed","","","England","","","","2022-06-01","",702
+876,"confirmed","","","England","","","","2022-06-01","",703
+877,"confirmed","","","England","","","","2022-06-01","",704
+878,"confirmed","","","Scotland","","","","2022-06-01","",705
+879,"confirmed","Ontario","Toronto","Canada","","","","2022-06-03","",706
+881,"confirmed","Köln (Cologne)","Köln (Cologne)","Germany","25-29","male","","2022-05-31","",707
+882,"confirmed","Köln (Cologne)","Köln (Cologne)","Germany","40-44","male","","2022-05-31","",708
+883,"confirmed","Hamburg","Hamburg","Germany","","","","2022-05-31","",709
+884,"confirmed","Madrid","","Spain","","","","2022-06-02","",710
+885,"confirmed","Madrid","","Spain","","","","2022-06-02","",711
+886,"confirmed","Madrid","","Spain","","","","2022-06-02","",712
+887,"confirmed","Madrid","","Spain","","","","2022-06-02","",713
+888,"confirmed","Madrid","","Spain","","","","2022-06-02","",714
+889,"confirmed","Madrid","","Spain","","","","2022-06-02","",715
+893,"confirmed","","","Portugal","15-64","male","","2022-06-01","",716
+894,"confirmed","","","Portugal","15-64","male","","2022-06-01","",717
+895,"confirmed","","","Portugal","15-64","male","","2022-06-01","",718
+896,"confirmed","","","Portugal","15-64","male","","2022-06-01","",719
+897,"confirmed","","","Portugal","15-64","male","","2022-06-01","",720
+898,"confirmed","","","Portugal","15-64","male","","2022-06-01","",721
+899,"confirmed","","","Portugal","15-64","male","","2022-06-01","",722
+900,"confirmed","","","Portugal","15-64","male","","2022-06-01","",723
+901,"confirmed","","","Portugal","15-64","male","","2022-06-01","",724
+902,"confirmed","","","Portugal","15-64","male","","2022-06-01","",725
+903,"confirmed","","","Portugal","15-64","male","","2022-06-01","",726
+904,"confirmed","","","Portugal","15-64","male","","2022-06-01","",727
+905,"confirmed","","","Portugal","15-64","male","","2022-06-01","",728
+906,"confirmed","","","Portugal","15-64","male","","2022-06-01","",729
+907,"confirmed","","","Portugal","15-64","male","","2022-06-01","",730
+908,"confirmed","","","Portugal","15-64","male","","2022-06-01","",731
+909,"confirmed","","","Portugal","15-64","male","","2022-06-01","",732
+910,"confirmed","","","Portugal","15-64","male","","2022-06-01","",733
+911,"confirmed","","","Portugal","15-64","male","","2022-06-01","",734
+912,"confirmed","île-de-France","","France","","","","2022-06-01","",735
+913,"confirmed","île-de-France","","France","","","","2022-06-01","",736
+914,"confirmed","île-de-France","","France","","","","2022-06-01","",737
+915,"confirmed","île-de-France","","France","","","","2022-06-01","",738
+916,"confirmed","île-de-France","","France","","","","2022-06-01","",739
+917,"confirmed","île-de-France","","France","","","","2022-06-01","",740
+918,"confirmed","île-de-France","","France","","","","2022-06-01","",741
+919,"confirmed","île-de-France","","France","","","","2022-06-01","",742
+920,"confirmed","île-de-France","","France","","","","2022-06-01","",743
+921,"confirmed","île-de-France","","France","","","","2022-06-01","",744
+922,"confirmed","île-de-France","","France","","","","2022-06-01","",745
+923,"confirmed","Occitanie","","France","","","","2022-06-01","",746
+924,"confirmed","Occitanie","","France","","","","2022-06-01","",747
+925,"confirmed","Centre-Val de Loire","","France","","","","2022-06-01","",748
+926,"confirmed","Auvergne-Rhone-Alpes","","France","","","","2022-06-01","",749
+927,"confirmed","Haut-de-France","","France","","","","2022-06-01","",750
+928,"confirmed","","","Belgium","","","","2022-06-01","",751
+929,"confirmed","","","Belgium","","","","2022-06-01","",752
+930,"confirmed","","","Belgium","","","","2022-06-01","",753
+931,"confirmed","","","Belgium","","","","2022-06-01","",754
+932,"confirmed","","","Belgium","","","","2022-06-01","",755
+933,"confirmed","","","United Arab Emirates","","","","2022-06-01","",756
+934,"confirmed","","","United Arab Emirates","","","","2022-06-01","",757
+935,"confirmed","","","United Arab Emirates","","","","2022-06-01","",758
+936,"confirmed","","","United Arab Emirates","","","","2022-06-01","",759
+937,"confirmed","","","Ireland","","","","2022-06-01","",760
+938,"confirmed","","","Ireland","","","","2022-06-01","",761
+939,"confirmed","St Bernard's Hospital, Gibraltar","Gibraltar","United Kingdom","","","","2022-06-01","",762
+940,"confirmed","","","England","","","","2022-06-02","",763
+941,"confirmed","","","England","","","","2022-06-02","",764
+942,"confirmed","","","England","","","","2022-06-02","",765
+943,"confirmed","","","England","","","","2022-06-02","",766
+944,"confirmed","","","England","","","","2022-06-02","",767
+945,"confirmed","","","England","","","","2022-06-02","",768
+946,"confirmed","","","England","","","","2022-06-02","",769
+947,"confirmed","","","England","","","","2022-06-02","",770
+948,"confirmed","","","England","","","","2022-06-02","",771
+949,"confirmed","","","England","","","","2022-06-02","",772
+950,"confirmed","","","England","","","","2022-06-02","",773
+951,"confirmed","New South Wales","Sydney","Australia","50-59","male","","2022-06-02","",774
+952,"confirmed","","","Morocco","","","","2022-06-02","",775
+953,"confirmed","","","Ireland","","","","2022-06-02","",776
+954,"confirmed","","","Ireland","","","","2022-06-02","",777
+955,"confirmed","Stockholm Region","Stockholm","Sweden","","","","2022-06-02","",778
+956,"confirmed","","","Portugal","15-64","male","","2022-06-02","",779
+957,"confirmed","","","Portugal","15-64","male","","2022-06-02","",780
+958,"confirmed","","","Portugal","15-64","male","","2022-06-02","",781
+959,"confirmed","","","Portugal","15-64","male","","2022-06-02","",782
+960,"confirmed","","","Portugal","15-64","male","","2022-06-02","",783
+961,"confirmed","","","Portugal","15-64","male","","2022-06-02","",784
+962,"confirmed","","","Portugal","15-64","male","","2022-06-02","",785
+963,"confirmed","","","Portugal","15-64","male","","2022-06-02","",786
+964,"confirmed","","","Portugal","15-64","male","","2022-06-02","",787
+965,"confirmed","","","Portugal","15-64","male","","2022-06-02","",788
+966,"confirmed","","","Portugal","15-64","male","","2022-06-02","",789
+967,"confirmed","","","Portugal","15-64","male","","2022-06-02","",790
+968,"confirmed","","","Portugal","15-64","male","","2022-06-02","",791
+969,"confirmed","","","Portugal","15-64","male","","2022-06-02","",792
+970,"confirmed","","","Portugal","15-64","male","","2022-06-02","",793
+971,"confirmed","","","Portugal","15-64","male","","2022-06-02","",794
+972,"confirmed","","","Portugal","15-64","male","","2022-06-02","",795
+973,"confirmed","","","Portugal","15-64","male","","2022-06-02","",796
+974,"confirmed","","","Portugal","15-64","male","","2022-06-02","",797
+975,"confirmed","","","Netherlands","","","","2022-06-02","",798
+976,"confirmed","","","Netherlands","","","","2022-06-02","",799
+977,"confirmed","","","Netherlands","","","","2022-06-02","",800
+978,"confirmed","","","Netherlands","","","","2022-06-02","",801
+979,"confirmed","","","Netherlands","","","","2022-06-02","",802
+980,"confirmed","","","Netherlands","","","","2022-06-02","",803
+981,"confirmed","","","Netherlands","","","","2022-06-02","",804
+982,"confirmed","","","Netherlands","","","","2022-06-02","",805
+983,"confirmed","Bayern","Günzburg","Germany","","male","","2022-06-02","",806
+984,"confirmed","NRW","Coesfeld","Germany","","male","","2022-06-02","Fever, skin rashes",807
+989,"confirmed","","","Belgium","25-44","","","2022-06-03","",808
+990,"confirmed","","","Belgium","25-44","","","2022-06-03","",809
+991,"confirmed","Prague, Czech Republic","Prague","Czech Republic","30-34","","","2022-06-02","Fever, chills, fatigue, headache, skin lesions",810
+992,"confirmed","","","Switzerland","","","","2022-06-02","",811
+993,"confirmed","","","Switzerland","","","","2022-06-02","",812
+994,"confirmed","Los Angeles County, California","","United States","","","","2022-06-02","",813
+995,"confirmed","Philadelphia, Pennsylvania","Philadelphia","United States","","","","2022-06-02","",814
+996,"confirmed","Chicago, Illinois","Chicago","United States","","","","2022-06-02","",815
+999,"confirmed","Hospital District of Helsinki and Uusimaa","Helsinki","Finland","","","","2022-06-02","",816
+1001,"confirmed","","","Slovenia","","","","2022-06-02","",817
+1006,"confirmed","","","Latvia","","","","2022-06-03","",818
+1007,"confirmed","New York","New York City","United States","","","","2022-06-02","",819
+1008,"confirmed","Alberta","","Canada","","male","","2022-06-02","",820
+1009,"confirmed","Modena","","Italy","20-24","male ","","2022-06-01","",821
+1010,"confirmed","Gran Canaria, Canary Islands","","Spain","","","","2022-06-02","",822
+1011,"confirmed","Tenerife, Canary Islands ","","Spain","","","","2022-06-02","",823
+1019,"confirmed","","","England","","","","2022-06-03","",824
+1020,"confirmed","","","England","","","","2022-06-03","",825
+1021,"confirmed","","","England","","","","2022-06-03","",826
+1022,"confirmed","","","England","","","","2022-06-03","",827
+1023,"confirmed","","","England","","","","2022-06-03","",828
+1024,"confirmed","","","England","","","","2022-06-03","",829
+1025,"confirmed","","","England","","","","2022-06-03","",830
+1026,"confirmed","","","England","","","","2022-06-03","",831
+1027,"confirmed","","","England","","","","2022-06-03","",832
+1028,"confirmed","","","England","","","","2022-06-03","",833
+1029,"confirmed","","","England","","","","2022-06-03","",834
+1030,"confirmed","","","England","","","","2022-06-03","",835
+1031,"confirmed","","","England","","","","2022-06-03","",836
+1032,"confirmed","","","England","","","","2022-06-03","",837
+1033,"confirmed","","","England","","","","2022-06-03","",838
+1034,"confirmed","","","Scotland","","","","2022-06-03","",839
+1035,"confirmed","","","Scotland","","","","2022-06-03","",840
+1036,"confirmed","","","Scotland","","","","2022-06-03","",841
+1037,"confirmed","","","Portugal","15-64","male","","2022-06-03","",842
+1038,"confirmed","","","Portugal","15-64","male","","2022-06-03","",843
+1039,"confirmed","","","Portugal","15-64","male","","2022-06-03","",844
+1040,"confirmed","","","Portugal","15-64","male","","2022-06-03","",845
+1041,"confirmed","","","Portugal","15-64","male","","2022-06-03","",846
+1042,"confirmed","","","Wales","","","","2022-06-03","",847
+1043,"confirmed","","Berlin","Germany","","","","2022-06-02","",848
+1044,"confirmed","","Berlin","Germany","","","","2022-06-02","",849
+1045,"confirmed","","Berlin","Germany","","","","2022-06-02","",850
+1046,"confirmed","","Berlin","Germany","","","","2022-06-02","",851
+1047,"confirmed","","Berlin","Germany","","","","2022-06-02","",852
+1048,"confirmed","","Berlin","Germany","","","","2022-06-02","",853
+1049,"confirmed","","Berlin","Germany","","","","2022-06-02","",854
+1050,"confirmed","","Berlin","Germany","","","","2022-06-02","",855
+1051,"confirmed","","Berlin","Germany","","","","2022-06-02","",856
+1052,"confirmed","","Berlin","Germany","","","","2022-06-02","",857
+1053,"confirmed","","Berlin","Germany","","","","2022-06-02","",858
+1054,"confirmed","","Berlin","Germany","","","","2022-06-02","",859
+1055,"confirmed","","Berlin","Germany","","","","2022-06-02","",860
+1056,"confirmed","","Berlin","Germany","","","","2022-06-02","",861
+1057,"confirmed","North-Rhine Westphalia","","Germany","","","","2022-06-02","",862
+1058,"confirmed","Niedersachsen","","Germany","","","","2022-06-03","",863
+1059,"confirmed","Canary Islands","","Spain","","","","2022-06-06","",864
+1060,"confirmed","Catalonia","","Spain","","","","2022-06-06","",865
+1061,"confirmed","Catalonia","","Spain","","","","2022-06-06","",866
+1062,"confirmed","Catalonia","","Spain","","","","2022-06-06","",867
+1063,"confirmed","Catalonia","","Spain","","","","2022-06-06","",868
+1064,"confirmed","Catalonia","","Spain","","","","2022-06-06","",869
+1065,"confirmed","Catalonia","","Spain","","","","2022-06-06","",870
+1066,"confirmed","Andalusia","","Spain","","","","2022-06-06","",871
+1067,"confirmed","","","Spain","","","","2022-06-03","",872
+1068,"confirmed","","","Spain","","","","2022-06-03","",873
+1069,"confirmed","","","Spain","","","","2022-06-03","",874
+1070,"confirmed","","","Spain","","","","2022-06-03","",875
+1071,"confirmed","","","Spain","","","","2022-06-03","",876
+1072,"confirmed","","","Spain","","","","2022-06-03","",877
+1073,"confirmed","","","Belgium","","","","2022-06-03","",878
+1074,"confirmed","New South Wales","Sydney","Australia","50-59","male","","2022-06-03","",879
+1075,"confirmed","","","Norway","","","","2022-06-01","fever, muscle pain, rash",880
+1076,"confirmed","","","Switzerland","","","","2022-06-03","",881
+1077,"confirmed","","","Switzerland","","","","2022-06-03","",882
+1078,"confirmed","Oʻahu, Hawaii","","United States","","","","","",883
+1083,"confirmed","Victoria","Melbourne","Australia","30-39","male","","2022-06-02","",884
+1085,"confirmed","île-de-France","","France","","","","2022-06-03","",885
+1086,"confirmed","île-de-France","","France","","","","2022-06-03","",886
+1087,"confirmed","île-de-France","","France","","","","2022-06-03","",887
+1088,"confirmed","île-de-France","","France","","","","2022-06-03","",888
+1089,"confirmed","île-de-France","","France","","","","2022-06-03","",889
+1090,"confirmed","île-de-France","","France","","","","2022-06-03","",890
+1091,"confirmed","île-de-France","","France","","","","2022-06-03","",891
+1092,"confirmed","île-de-France","","France","","","","2022-06-03","",892
+1093,"confirmed","île-de-France","","France","","","","2022-06-03","",893
+1094,"confirmed","île-de-France","","France","","","","2022-06-03","",894
+1095,"confirmed","île-de-France","","France","","","","2022-06-03","",895
+1096,"confirmed","île-de-France","","France","","","","2022-06-03","",896
+1097,"confirmed","île-de-France","","France","","","","2022-06-03","",897
+1098,"confirmed","Occitanie","","France","","","","2022-06-03","",898
+1099,"confirmed","Occitanie","","France","","","","2022-06-03","",899
+1100,"confirmed","Auvergne-Rhone-Alpes","","France","","","","2022-06-03","",900
+1101,"confirmed","Auvergne-Rhone-Alpes","","France","","","","2022-06-03","",901
+1102,"confirmed","Normandy","","France","","","","2022-06-03","",902
+1103,"confirmed","Sainta Chiara Hospital, Trento","Trento","Italy","","","","2022-06-03","",903
+1104,"confirmed","Chicago, Illinois","Chicago","United States","","","","2022-06-03","",904
+1105,"confirmed","New York City, New York","New York City","United States","","","","2022-06-03","",905
+1106,"confirmed","New York City, New York","New York City","United States","","","","2022-06-03","",906
+1108,"confirmed","Quebec","","Canada","","","","2022-06-02","",907
+1109,"confirmed","Quebec","","Canada","","","","2022-06-02","",908
+1110,"confirmed","Quebec","","Canada","","","","2022-06-02","",909
+1111,"confirmed","Quebec","","Canada","","","","2022-06-02","",910
+1112,"confirmed","Quebec","","Canada","","","","2022-06-02","",911
+1113,"confirmed","Quebec","","Canada","","","","2022-06-02","",912
+1114,"confirmed","Quebec","","Canada","","","","2022-06-02","",913
+1115,"confirmed","Quebec","","Canada","","","","2022-06-02","",914
+1116,"confirmed","Quebec","","Canada","","","","2022-06-02","",915
+1117,"confirmed","Quebec","","Canada","","","","2022-06-02","",916
+1118,"confirmed","Quebec","","Canada","","","","2022-06-02","",917
+1119,"confirmed","Quebec","","Canada","","","","2022-06-02","",918
+1120,"confirmed","Quebec","","Canada","","","","2022-06-02","",919
+1121,"confirmed","Quebec","","Canada","","","","2022-06-02","",920
+1122,"confirmed","Quebec","","Canada","","","","2022-06-02","",921
+1123,"confirmed","Quebec","","Canada","","","","2022-06-02","",922
+1124,"confirmed","New South Wales","Sydney","Australia","30-39","male","","2022-06-04","",923
+1140,"confirmed","Aragon","Aragon","Spain","","male","","2022-06-06","",924
+1142,"confirmed","","Brandenburg ","Germany","35-39","male","","2022-06-04","",925
+1143,"confirmed","","Berlin","Germany","","","","2022-06-03","",926
+1144,"confirmed","","Berlin","Germany","","","","2022-06-03","",927
+1145,"confirmed","","Berlin","Germany","","","","2022-06-03","",928
+1146,"confirmed","","Berlin","Germany","","","","2022-06-03","",929
+1147,"confirmed","","Berlin","Germany","","","","2022-06-03","",930
+1148,"confirmed","","Berlin","Germany","","","","2022-06-03","",931
+1149,"confirmed","","Berlin","Germany","","","","2022-06-03","",932
+1150,"confirmed","","Berlin","Germany","","","","2022-06-03","",933
+1151,"confirmed","","Berlin","Germany","","","","2022-06-03","",934
+1152,"confirmed","North-Rhine Westphalia","Bonn","Germany","","","","2022-06-04","",935
+1153,"confirmed","Baden-Württemberg","","Germany","","","","2022-06-04","",936
+1154,"confirmed","Baden-Württemberg","","Germany","","","","2022-06-04","",937
+1155,"confirmed","Baden-Württemberg","","Germany","","","","2022-06-04","",938
+1156,"confirmed","","","Scotland","","","","2022-06-06","",939
+1157,"confirmed","","","Scotland","","","","2022-06-06","",940
+1158,"confirmed","","","England","","","","2022-06-06","",941
+1159,"confirmed","","","England","","","","2022-06-06","",942
+1160,"confirmed","","","England","","","","2022-06-06","",943
+1161,"confirmed","","","England","","","","2022-06-06","",944
+1162,"confirmed","","","England","","","","2022-06-06","",945
+1163,"confirmed","","","England","","","","2022-06-06","",946
+1164,"confirmed","","","England","","","","2022-06-06","",947
+1165,"confirmed","","","England","","","","2022-06-06","",948
+1166,"confirmed","","","England","","","","2022-06-06","",949
+1167,"confirmed","","","England","","","","2022-06-06","",950
+1168,"confirmed","","","England","","","","2022-06-06","",951
+1169,"confirmed","","","England","","","","2022-06-06","",952
+1170,"confirmed","","","England","","","","2022-06-06","",953
+1171,"confirmed","","","England","","","","2022-06-06","",954
+1172,"confirmed","","","England","","","","2022-06-06","",955
+1173,"confirmed","","","England","","","","2022-06-06","",956
+1174,"confirmed","","","England","","","","2022-06-06","",957
+1175,"confirmed","","","England","","","","2022-06-06","",958
+1176,"confirmed","","","England","","","","2022-06-06","",959
+1177,"confirmed","","","England","","","","2022-06-06","",960
+1178,"confirmed","","","England","","","","2022-06-06","",961
+1179,"confirmed","","","England","","","","2022-06-06","",962
+1180,"confirmed","","","England","","","","2022-06-06","",963
+1181,"confirmed","","","England","","","","2022-06-06","",964
+1182,"confirmed","","","England","","","","2022-06-06","",965
+1183,"confirmed","","","England","","","","2022-06-06","",966
+1184,"confirmed","","","England","","","","2022-06-06","",967
+1185,"confirmed","","","England","","","","2022-06-06","",968
+1186,"confirmed","","","England","","","","2022-06-06","",969
+1187,"confirmed","","","England","","","","2022-06-06","",970
+1188,"confirmed","","","England","","","","2022-06-06","",971
+1189,"confirmed","","","England","","","","2022-06-06","",972
+1190,"confirmed","","","England","","","","2022-06-06","",973
+1191,"confirmed","","","England","","","","2022-06-06","",974
+1192,"confirmed","","","England","","","","2022-06-06","",975
+1193,"confirmed","","","England","","","","2022-06-06","",976
+1194,"confirmed","","","England","","","","2022-06-06","",977
+1195,"confirmed","","","England","","","","2022-06-06","",978
+1196,"confirmed","","","England","","","","2022-06-06","",979
+1197,"confirmed","","","England","","","","2022-06-06","",980
+1198,"confirmed","","","England","","","","2022-06-06","",981
+1199,"confirmed","","","England","","","","2022-06-06","",982
+1200,"confirmed","","","England","","","","2022-06-06","",983
+1201,"confirmed","","","England","","","","2022-06-06","",984
+1202,"confirmed","","","England","","","","2022-06-06","",985
+1203,"confirmed","","","England","","","","2022-06-06","",986
+1204,"confirmed","","","England","","","","2022-06-06","",987
+1205,"confirmed","","","England","","","","2022-06-06","",988
+1206,"confirmed","","","England","","","","2022-06-06","",989
+1207,"confirmed","","","England","","","","2022-06-06","",990
+1208,"confirmed","","","England","","","","2022-06-06","",991
+1209,"confirmed","","","England","","","","2022-06-06","",992
+1210,"confirmed","","","England","","","","2022-06-06","",993
+1211,"confirmed","","","England","","","","2022-06-06","",994
+1212,"confirmed","","","England","","","","2022-06-06","",995
+1213,"confirmed","","","England","","","","2022-06-06","",996
+1214,"confirmed","","","England","","","","2022-06-06","",997
+1215,"confirmed","","","England","","","","2022-06-06","",998
+1216,"confirmed","","","England","","","","2022-06-06","",999
+1217,"confirmed","","","England","","","","2022-06-06","",1000
+1218,"confirmed","","","England","","","","2022-06-06","",1001
+1219,"confirmed","","","England","","","","2022-06-06","",1002
+1220,"confirmed","","","England","","","","2022-06-06","",1003
+1221,"confirmed","","","England","","","","2022-06-06","",1004
+1222,"confirmed","","","England","","","","2022-06-06","",1005
+1223,"confirmed","","","England","","","","2022-06-06","",1006
+1224,"confirmed","","","England","","","","2022-06-06","",1007
+1225,"confirmed","","","England","","","","2022-06-06","",1008
+1226,"confirmed","","","England","","","","2022-06-06","",1009
+1227,"confirmed","","","England","","","","2022-06-06","",1010
+1228,"confirmed","","","England","","","","2022-06-06","",1011
+1229,"confirmed","","","England","","","","2022-06-06","",1012
+1230,"confirmed","","","England","","","","2022-06-06","",1013
+1231,"confirmed","","","Wales","","","","2022-06-06","",1014
+1232,"confirmed","Navarra","","Spain","","","","2022-06-06","",1015
+1233,"confirmed","Basque Country","","Spain","","","","2022-06-06","",1016
+1234,"confirmed","Basque Country","","Spain","","","","2022-06-06","",1017
+1235,"confirmed","Basque Country","","Spain","","","","2022-06-06","",1018
+1236,"confirmed","Basque Country","","Spain","","","","2022-06-06","",1019
+1249,"confirmed","British Columbia","Vancouver","Canada","","","","2022-06-06","",1020
+1250,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1021
+1251,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1022
+1252,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1023
+1253,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1024
+1254,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1025
+1255,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1026
+1256,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1027
+1257,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1028
+1258,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1029
+1259,"confirmed","","","Portugal","15-64","male","","2022-06-06","",1030
+1260,"confirmed","Marseille","Marseille","France","","","","2022-06-04","",1031
+1261,"confirmed","","Piacenza","Italy","","","","2022-06-06","",1032
+1262,"confirmed","","Piacenza","Italy","","","","2022-06-06","",1033
+1263,"confirmed","","Piacenza","Italy","","","","2022-06-06","",1034
